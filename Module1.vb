@@ -6,7 +6,7 @@
 
         While totalTests <> 10
             Console.WriteLine("Student Score: ")
-            testScores = Console.ReadLine()
+            testScores = Console.ReadLine()2
             totalTests = totalTests + 1
             testScores = testScores + testScores
         End While
